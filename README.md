@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A mini challenge with the purpose of familarising myself with react.
+A mini challenge with the purpose of familarising myself with react. I chose a plain style as I wanted to focus on the map aspect of the project. I plan to come back to this project to add a button that shuffles the deck and change the designs for the king, queen and jacks.
 
 ###Challenge
 <ul>
