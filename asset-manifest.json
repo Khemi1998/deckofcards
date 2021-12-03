@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/deckofcards.git/static/css/main.d7282cee.chunk.css",
+    "main.js": "/deckofcards.git/static/js/main.fd2d1846.chunk.js",
+    "main.js.map": "/deckofcards.git/static/js/main.fd2d1846.chunk.js.map",
+    "runtime-main.js": "/deckofcards.git/static/js/runtime-main.73bdf780.js",
+    "runtime-main.js.map": "/deckofcards.git/static/js/runtime-main.73bdf780.js.map",
+    "static/js/2.15929e76.chunk.js": "/deckofcards.git/static/js/2.15929e76.chunk.js",
+    "static/js/2.15929e76.chunk.js.map": "/deckofcards.git/static/js/2.15929e76.chunk.js.map",
+    "static/js/3.902e3230.chunk.js": "/deckofcards.git/static/js/3.902e3230.chunk.js",
+    "static/js/3.902e3230.chunk.js.map": "/deckofcards.git/static/js/3.902e3230.chunk.js.map",
+    "index.html": "/deckofcards.git/index.html",
+    "static/css/main.d7282cee.chunk.css.map": "/deckofcards.git/static/css/main.d7282cee.chunk.css.map",
+    "static/js/2.15929e76.chunk.js.LICENSE.txt": "/deckofcards.git/static/js/2.15929e76.chunk.js.LICENSE.txt",
+    "static/media/club.fa41111d.png": "/deckofcards.git/static/media/club.fa41111d.png",
+    "static/media/diamond.174deb6d.png": "/deckofcards.git/static/media/diamond.174deb6d.png",
+    "static/media/heart.dc1bee9c.png": "/deckofcards.git/static/media/heart.dc1bee9c.png",
+    "static/media/spade.3890eb14.png": "/deckofcards.git/static/media/spade.3890eb14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73bdf780.js",
+    "static/js/2.15929e76.chunk.js",
+    "static/css/main.d7282cee.chunk.css",
+    "static/js/main.fd2d1846.chunk.js"
+  ]
+}
